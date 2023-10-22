@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+"""starts a flask app"""
 from flask import Flask
 from markupsafe import escape
 
